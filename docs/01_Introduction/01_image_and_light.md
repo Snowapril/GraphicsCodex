@@ -1,6 +1,6 @@
 # Images and Light
 
-![Untitled](Images/cornell_box.png)
+![Cornell Box](Images/cornell_box.png)
 
 Cornell Box, Left : Photograph, Right : Computer Graphics
 
