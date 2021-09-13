@@ -12,3 +12,5 @@ All lecture notes is written by korean.
 
 ## Surface and Geometry
 [What is Surface](02_Surface_Geometry/01_what_is_surface.md)
+
+[Modeling a 1D Surface in 2D Space](02_Surface_Geometry/02_modeling_1d_surface_in_2d_space.md)
